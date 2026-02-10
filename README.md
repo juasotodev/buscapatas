@@ -34,7 +34,7 @@ Tomamos medidas razonables para proteger su información. Utilizamos **Firebase*
 ## 6. Eliminación de datos
 Usted tiene derecho a solicitar la eliminación de su cuenta y todos los datos asociados.
 - Puede solicitarlo directamente dentro de la aplicación en la configuración de "Perfil".
-- O enviando un correo a: **soporte@buscapatas.com**
+- O enviando un correo a: ****
 
 ## 7. Privacidad de los niños
 Nuestra aplicación no está dirigida a niños menores de 13 años. No recopilamos a sabiendas información personal de niños menores de 13 años.
@@ -44,4 +44,4 @@ Podemos actualizar esta Política de Privacidad ocasionalmente. Le notificaremos
 
 ## 9. Contacto
 Si tiene alguna pregunta sobre esta Política de Privacidad, contáctenos en:
-**soporte@buscapatas.com**
+**juasotodev@gmail.com**
