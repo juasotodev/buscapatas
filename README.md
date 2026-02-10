@@ -34,7 +34,7 @@ Tomamos medidas razonables para proteger su información. Utilizamos **Firebase*
 ## 6. Eliminación de datos
 Usted tiene derecho a solicitar la eliminación de su cuenta y todos los datos asociados.
 - Puede solicitarlo directamente dentro de la aplicación en la configuración de "Perfil".
-- O enviando un correo a: ****
+- O enviando un correo a: **juasotodev@gmail.com**
 
 ## 7. Privacidad de los niños
 Nuestra aplicación no está dirigida a niños menores de 13 años. No recopilamos a sabiendas información personal de niños menores de 13 años.
